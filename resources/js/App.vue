@@ -1,6 +1,6 @@
 <template>
     <h1>
        Laravel + Vue3.js
-       the is no e 
+        Another commit
     </h1>
 </template>
